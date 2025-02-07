@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:05,240
+ Key insights from the paper, Comprehensive Health Data Analysis for Early
+
+2
+00:00:05,799 --> 00:00:09,359
+ Dementure Diagnosis, a Machine Learning approach.
+
+3
+00:00:09,919 --> 00:00:13,279
+ J. Min Salvi, Asterisk Operator, Agam Shah,
+
+4
+00:00:13,859 --> 00:00:17,100
+ Asterisk Operator Department of Computer Science,
+
+5
+00:00:17,820 --> 00:00:25,160
+ NIRMA University, India, Department of Computer Science, NIRMA University, India,
+
+6
+00:00:25,160 --> 00:00:26,500
+ ABSTRACT.
+
+7
+00:00:26,739 --> 00:00:29,920
+ This paper investigates the application of machine.
+
+8
+00:00:30,679 --> 00:00:31,039
+ Learning.
+
+9
+00:00:31,579 --> 00:00:32,259
+ Milliliter.
+
+10
+00:00:32,700 --> 00:00:38,259
+ Models to predict dementia diagnosis using a Comprehensive Health Data Set.
+
+11
+00:00:38,560 --> 00:00:44,740
+ The data set includes key health-related features such as diabetic status, heart rate,
+
+12
+00:00:45,219 --> 00:00:51,859
+ blood oxygen, levels, body temperature, cognitive test scores, and lifestyle.
+
+13
+00:00:52,740 --> 00:00:53,399
+ Factors.
+
+14
+00:00:53,399 --> 00:00:57,479
+ We employed milliliter techniques to predict dementia onset.
+
+15
+00:00:58,240 --> 00:01:01,579
+ Leveraging algorithms such as support vector machines.
+
+16
+00:01:02,240 --> 00:01:03,119
+ SVM.
+
+17
+00:01:03,539 --> 00:01:05,079
+ And Logistic Regression.
+
+18
+00:01:05,620 --> 00:01:08,040
+ Our findings demonstrate that milliliter.
+
+19
+00:01:08,599 --> 00:01:09,239
+ Models.
+
+20
+00:01:09,659 --> 00:01:12,700
+ Particularly SVM and Logistic Regression.
+
+21
+00:01:13,359 --> 00:01:19,900
+ Can effectively identify key predictors and achieve substantial accuracy in dementia
+
+22
+00:01:19,900 --> 00:01:20,519
+ prediction.
+
+23
+00:01:21,079 --> 00:01:23,739
+ The primary aim of this study is to validate.
+
+24
+00:01:24,379 --> 00:01:30,780
+ The performance of milliliter models in detecting dementia at an early stage and to identify
+
+25
+00:01:30,780 --> 00:01:33,260
+ the most influential health and cognitive.
+
+26
+00:01:34,380 --> 00:01:36,480
+ Factors contributing to dementia risk.
+
